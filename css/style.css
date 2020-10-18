@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+.box h1 {
+	margin: 0;
+	font-size: 40px;
+	padding-bottom: 26px;
+}
+.box p{
+	margin: 0;
+	font-size: 14px;
+	line-height: 1.4;
+}
+.container{
+	width: 1020px;
+	overflow: hidden;
+	margin: 10px 20px;
+}
+.box{
+	width: 30%;
+	float: left;
+	padding: 10px 40px;
+	box-sizing: border-box;
+	background-color: #dfe4ea;
+	margin: 20px 10px;
+}
+
+img{
+	max-width: 100%;
+}
+footer{
+	background-color: #dfe4ea;
+	overflow: hidden;
+}
+footer h2{
+	font-size: 30px;
+	text-align: center;
+}
